@@ -1,2 +1,6 @@
 # CRNOMA_DDPG
-A DDPG based reinforcement learning algorithm for cognitive radio inspired non-orthogonal multiple access (CR-NOMA) systems
+These are the codes for the following paper
+
+No-Pain No-Gain: DRL Assisted Optimization in Energy-Constrained CR-NOMA Networks
+
+
